@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstLessonCounter</string>
+    <string name="pause_activity">Пауза активности</string>
+    <string name="resume_activity">Передача пользователю активности</string>
+</resources>
